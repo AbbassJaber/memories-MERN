@@ -1,0 +1,6 @@
+body {
+    background: linear-gradient(90deg, #B79BD5 0%, #9AA9E4 22.4%, #6CACE5 44.91%, #58BADF 61.73%, #6AC9D5 79.89%, #7DCFC4D5 100%);
+}
+* {
+    font-family: 'Heebo', sans-serif !important;
+}
